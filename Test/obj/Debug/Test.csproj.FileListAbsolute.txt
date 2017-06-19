@@ -1,0 +1,15 @@
+E:\CodeDojo\FoxAndChickens\Test\bin\Debug\Test.dll
+E:\CodeDojo\FoxAndChickens\Test\bin\Debug\Test.pdb
+E:\CodeDojo\FoxAndChickens\Test\bin\Debug\FoxAndChickens.exe
+E:\CodeDojo\FoxAndChickens\Test\bin\Debug\nunit.framework.dll
+E:\CodeDojo\FoxAndChickens\Test\bin\Debug\FoxAndChickens.pdb
+E:\CodeDojo\FoxAndChickens\Test\bin\Debug\nunit.framework.xml
+E:\CodeDojo\FoxAndChickens\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+E:\CodeDojo\FoxAndChickens\Test\obj\Debug\Test.dll
+E:\CodeDojo\FoxAndChickens\Test\obj\Debug\Test.pdb
+E:\CodeDojo\FoxAndChickens\Test\bin\Debug\FluentAssertions.Core.dll
+E:\CodeDojo\FoxAndChickens\Test\bin\Debug\FluentAssertions.dll
+E:\CodeDojo\FoxAndChickens\Test\bin\Debug\FluentAssertions.pdb
+E:\CodeDojo\FoxAndChickens\Test\bin\Debug\FluentAssertions.xml
+E:\CodeDojo\FoxAndChickens\Test\bin\Debug\FluentAssertions.Core.pdb
+E:\CodeDojo\FoxAndChickens\Test\bin\Debug\FluentAssertions.Core.xml

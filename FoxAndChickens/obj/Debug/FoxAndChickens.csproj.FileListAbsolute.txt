@@ -1,0 +1,6 @@
+E:\CodeDojo\FoxAndChickens\FoxAndChickens\bin\Debug\FoxAndChickens.exe.config
+E:\CodeDojo\FoxAndChickens\FoxAndChickens\bin\Debug\FoxAndChickens.exe
+E:\CodeDojo\FoxAndChickens\FoxAndChickens\bin\Debug\FoxAndChickens.pdb
+E:\CodeDojo\FoxAndChickens\FoxAndChickens\obj\Debug\FoxAndChickens.csprojResolveAssemblyReference.cache
+E:\CodeDojo\FoxAndChickens\FoxAndChickens\obj\Debug\FoxAndChickens.exe
+E:\CodeDojo\FoxAndChickens\FoxAndChickens\obj\Debug\FoxAndChickens.pdb
